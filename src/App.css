@@ -1,0 +1,16 @@
+*{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.cardtask{
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    
+}
+TextField{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 300;
+
+}
